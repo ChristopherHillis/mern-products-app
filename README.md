@@ -21,3 +21,5 @@ Possible Future Developments:
 - use bank authentication and make purchasing items possible
 - an inventory count for items in the DB
 - send confirmation emails and receipts once purchased
+
+publically hosted on: https://mern-products-app-ov4h.onrender.com
