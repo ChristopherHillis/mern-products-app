@@ -1,0 +1,8 @@
+npm install express, mongoose dotenv
+npm i nodemon -D
+npm create vite@latest
+npm install
+npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+npm install react-icons
+ npm i @chakra-ui/icons
+ npm install zustand
